@@ -1,8 +1,9 @@
 #include <math.h>
 #include <stdio.h>
+#include <stdbool.h>
 
 void checkNumbers();
-int isPrime(int n);
+bool isPrime(int n);
 
 int main()
 {
@@ -10,18 +11,18 @@ int main()
     return 0;
 }
 
-int isPrime(int n)
+bool isPrime(int n)
 {
     int max, i;
     if (n >= 1 && n <= 3)
-        return 1; // 1,2,3
+        return true; // 1,2,3
     if (n % 2 == 0)
-        return 0; // numeri pari
+        return false; // numeri pari
     max = sqrt(n);
     for (i = 3; i <= max; i += 2)
         if (n % i == 0)
-            return 0;
-    return 1;
+            return false;
+    return true;
 }
 
 void checkNumbers()
