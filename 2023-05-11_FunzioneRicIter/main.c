@@ -10,7 +10,7 @@ double iterativa(double a, int n);
 int main(int argc, char const *argv[])
 {
     printf("Ris iter: %lf\n", iterativa(N1, N2));
-    printf("Ris rico: %lf", ricorsiva(N1, N2));
+    printf("Ris rico: %lf\n", ricorsiva(N1, N2));
     return 0;
 }
 
