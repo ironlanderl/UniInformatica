@@ -19,6 +19,11 @@ int main(int argc, char const *argv[])
     }
 
     nums = (int *)malloc(sizeof(int) * n);
+    if (nums == NULL)
+    {
+        perror("Errore nell'allocare memoria");
+        exit(1);
+    }
 
     // Inserimento valori
     for (int i = 0; i < n; i++)
