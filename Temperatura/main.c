@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 int main()
 {
@@ -10,6 +11,5 @@ int main()
     float f = 32 + c * 9/5;
     
     printf("%.2f °C = %.2f °F", c, f);
-    
     return 0;
 }
