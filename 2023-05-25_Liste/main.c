@@ -160,7 +160,6 @@ PTRnodo aggiungi_in_pos(PTRnodo node, int index)
 
 PTRnodo elimina_elemento(PTRnodo node, int index)
 {
-    int tmp;
     PTRnodo delete;
     PTRnodo precedente = (PTRnodo)malloc(sizeof(nodo));
     PTRnodo successivo = (PTRnodo)malloc(sizeof(nodo));
