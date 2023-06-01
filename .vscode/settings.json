@@ -8,6 +8,7 @@
         "semaphore": "c",
         "valarray": "c",
         "ratio": "c",
-        "numbers": "c"
+        "numbers": "c",
+        "stdlib.h": "c"
     }
 }
