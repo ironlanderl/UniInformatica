@@ -1,0 +1,20 @@
+Q_01 Qual è la capitale dell'Italia?                   Roma
+Q_02 Quanti giorni ci sono in un anno bisestile?       366
+Q_03 Chi ha dipinto "La Gioconda"?                     Leonardo_da_Vinci
+Q_04 Qual è il simbolo chimico dell'oro?               Au
+Q_05 In quale paese si trova la Torre Eiffel?          Francia
+Q_06 Quale è il più grande oceano sulla Terra?         Oceano_Pacifico
+Q_07 Quale è l'organo più grande del corpo umano?      La_pelle
+Q_08 Chi ha scritto "Romeo e Giulietta"?               William_Shakespeare
+Q_09 Quale è il numero atomico dell'ossigeno?          8
+Q_10 Chi ha inventato la lampadina?                    Thomas_Edison
+Q_11 Quale è il più lungo fiume del mondo?             Il_Nilo
+Q_12 Qual è il metallo più leggero?                    Il_litio
+Q_13 In quale anno l'uomo ha messo piede sulla Luna?   1969
+Q_14 Quale pianeta è chiamato "il pianeta rosso"?      Marte
+Q_15 Chi ha scritto "1984"?                            George_Orwell
+Q_16 Quale è la lingua più parlata al mondo?           Il_cinese_mandarino
+Q_17 Quale è l'alchimista più famoso?                  Paracelso
+Q_18 Quale è la formula chimica dell'acqua?            H2O
+Q_19 Chi ha scritto "Orgoglio e pregiudizio"?          Jane_Austen
+Q_20 Quale è l'anno di nascita di Leonardo da Vinci?   1452
